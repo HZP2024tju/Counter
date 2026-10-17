@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/counter.hpp
+eigen3/Eigen/Eigen
+../include/eigen3/Eigen/Eigen
+random
+-
+unordered_set
+-
+omp.h
+-
+
+../include/my_fun.hpp
+
+/home/hzp/homework/work2/src/mytest.cpp
+matplotlibcpp.h
+/home/hzp/homework/work2/src/matplotlibcpp.h
+iomanip
+-
+vector
+-
+math.h
+-
+counter.hpp
+/home/hzp/homework/work2/src/counter.hpp
+my_fun.hpp
+/home/hzp/homework/work2/src/my_fun.hpp
+

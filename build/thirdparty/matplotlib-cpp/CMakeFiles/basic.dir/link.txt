@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=address -g -O0   CMakeFiles/basic.dir/examples/basic.cpp.o  -o ../../bin/basic  /usr/lib/x86_64-linux-gnu/libpython3.8.so 

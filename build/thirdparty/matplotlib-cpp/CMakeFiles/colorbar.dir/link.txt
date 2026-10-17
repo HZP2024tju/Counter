@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=address -g -O0   CMakeFiles/colorbar.dir/examples/colorbar.cpp.o  -o ../../bin/colorbar  /usr/lib/x86_64-linux-gnu/libpython3.8.so 

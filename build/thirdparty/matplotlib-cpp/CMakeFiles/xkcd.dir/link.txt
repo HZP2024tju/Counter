@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=address -g -O0   CMakeFiles/xkcd.dir/examples/xkcd.cpp.o  -o ../../bin/xkcd  /usr/lib/x86_64-linux-gnu/libpython3.8.so 

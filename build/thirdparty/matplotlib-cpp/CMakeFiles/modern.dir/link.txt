@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=address -g -O0   CMakeFiles/modern.dir/examples/modern.cpp.o  -o ../../bin/modern  /usr/lib/x86_64-linux-gnu/libpython3.8.so 
